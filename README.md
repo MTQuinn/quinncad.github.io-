@@ -14,7 +14,7 @@ This section showcases selected drawings and practice assignments completed duri
 
 | Drawing                 | Screenshot |
 |-------------------------|------------|
-| Base Plate              | ![Base Plate](./images/Base-Plate.png) |
+| Base Plate              | ![Base Plate](./images/Base-Plate.png)|
 | Orthographic Layout 2   | ![Orthographic Layout 2](./images/dftg-1409/orthographic-layout-2.png) |
 | Section View Example    | ![Section View](./images/dftg-1409/section-view-example.png) |
 | Title Block Drawing     | ![Title Block](./images/dftg-1409/title-block-drawing.png) |
