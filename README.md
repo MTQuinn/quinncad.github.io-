@@ -14,7 +14,7 @@ This section showcases selected drawings and practice assignments completed duri
 
 | Drawing                 | Screenshot |
 |-------------------------|------------|
-| Isometric Block 1       | ![Isometric Block 1](./images/dftg-1409/isometric-block-1.png) |
+| Base Plate              | ![Base Plate](./images/BasePlate.png) |
 | Orthographic Layout 2   | ![Orthographic Layout 2](./images/dftg-1409/orthographic-layout-2.png) |
 | Section View Example    | ![Section View](./images/dftg-1409/section-view-example.png) |
 | Title Block Drawing     | ![Title Block](./images/dftg-1409/title-block-drawing.png) |
