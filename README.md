@@ -19,26 +19,68 @@ This section showcases selected drawings and practice assignments completed duri
       <sub>Base Plate</sub>
     </td>
     <td align="center">
-      <img src="./images/Control-Panel.png" width="15000"/><br/>
+      <img src="./images/Stepped-Shaft.png" width="15000"/><br/>
       <sub>Control Panel</sub>
     </td>
     <td align="center">
-      <img src="./images/Final-3D-Assembly.png" width="15000"/><br/>
+      <img src="./images/Mounting-Plate.png" width="15000"/><br/>
       <sub>Final 3D Assembly</sub>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="./images/Multi-View-Dimensions.png" width="300"/><br/>
+      <img src="./images/Test-Bracket.png" width="300"/><br/>
       <sub>Multi-View Dimensions</sub>
     </td>
     <td align="center">
-      <img src="./images/dftg-1409/Solid-Model-1.png" width="300"/><br/>
+      <img src="./images/Floor-Framing.png" width="300"/><br/>
       <sub>Solid Model 1</sub>
     </td>
     <td align="center">
-      <img src="./images/dftg-1409/Solid-Model-2.png" width="200"/><br/>
+      <img src="./images/Grill.png" width="200"/><br/>
       <sub>Solid Model 2</sub>
+    </td>
+  </tr>
+   <tr>
+    <td align="center">
+      <img src="./images/Hearth.png" width="10000"/><br/>
+      <sub>Base Plate</sub>
+    </td>
+    <td align="center">
+      <img src="./images/Flanged-Bushing.png" width="15000"/><br/>
+      <sub>Control Panel</sub>
+    </td>
+    <td align="center">
+      <img src="./images/Sprocket.png" width="15000"/><br/>
+      <sub>Final 3D Assembly</sub>
+    </td>
+  </tr>
+   <tr>
+    <td align="center">
+      <img src="./images/Text-Exercise.png" width="10000"/><br/>
+      <sub>Base Plate</sub>
+    </td>
+    <td align="center">
+      <img src="./images/Tool-Block.png" width="15000"/><br/>
+      <sub>Control Panel</sub>
+    </td>
+    <td align="center">
+      <img src="./images/Control-Panel.png" width="15000"/><br/>
+      <sub>Final 3D Assembly</sub>
+    </td>
+  </tr>
+   <tr>
+    <td align="center">
+      <img src="./images/Gazebo.png" width="10000"/><br/>
+      <sub>Base Plate</sub>
+    </td>
+    <td align="center">
+      <img src="./images/Isometrics-Arm-1-2.png" width="15000"/><br/>
+      <sub>Control Panel</sub>
+    </td>
+    <td align="center">
+      <img src="./images/Final-3D-Assembly.png" width="15000"/><br/>
+      <sub>Final 3D Assembly</sub>
     </td>
   </tr>
 </table>
