@@ -15,15 +15,15 @@ This section showcases selected drawings and practice assignments completed duri
 <table>
   <tr>
     <td align="center">
-      <img src="./images/Base-Plate.png" width="1000"/><br/>
+      <img src="./images/Base-Plate.png" width="3000"/><br/>
       <sub>Base Plate</sub>
     </td>
     <td align="center">
-      <img src="./images/Control-Panel.png" width="1100"/><br/>
+      <img src="./images/Control-Panel.png" width="3000"/><br/>
       <sub>Control Panel</sub>
     </td>
     <td align="center">
-      <img src="./images/Final-3D-Assembly.png" width="1100"/><br/>
+      <img src="./images/Final-3D-Assembly.png" width="3000"/><br/>
       <sub>Final 3D Assembly</sub>
     </td>
   </tr>
