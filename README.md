@@ -12,14 +12,6 @@ This section showcases selected drawings and practice assignments completed duri
 
 ### 📸 Class Project Gallery
 
-| Drawing                 | Screenshot |
-|-------------------------|------------|
-| Base Plate              | ![Base Plate](./images/Base-Plate.png)|
-| Orthographic Layout 2   | ![Orthographic Layout 2](./images/dftg-1409/orthographic-layout-2.png) |
-| Section View Example    | ![Section View](./images/dftg-1409/section-view-example.png) |
-| Title Block Drawing     | ![Title Block](./images/dftg-1409/title-block-drawing.png) |
-| Custom Part Draft       | ![Custom Part](./images/dftg-1409/custom-part-draft.png) |
-
 <table>
   <tr>
     <td align="center">
@@ -27,11 +19,11 @@ This section showcases selected drawings and practice assignments completed duri
       <sub>Base Plate</sub>
     </td>
     <td align="center">
-      <img src="./images/Control-Panel.png" width="300"/><br/>
+      <img src="./images/Control-Panel.png" width="400"/><br/>
       <sub>Control Panel</sub>
     </td>
     <td align="center">
-      <img src="./images/Final-3D-Assembly.png" width="300"/><br/>
+      <img src="./images/Final-3D-Assembly.png" width="400"/><br/>
       <sub>Final 3D Assembly</sub>
     </td>
   </tr>
