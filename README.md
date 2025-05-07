@@ -61,11 +61,11 @@ This section showcases selected drawings and practice assignments completed duri
       <sub>Text Exercise</sub>
     </td>
     <td align="center">
-      <img src="./images/Tool-Block.png" width="17000"/><br/>
+      <img src="./images/Tool-Block.png" width="20000"/><br/>
       <sub>Tool Block</sub>
     </td>
     <td align="center">
-      <img src="./images/Control-Panel.png" width="17000"/><br/>
+      <img src="./images/Control-Panel.png" width="20000"/><br/>
       <sub>Control Panel</sub>
     </td>
   </tr>
