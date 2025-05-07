@@ -15,7 +15,7 @@ This section showcases selected drawings and practice assignments completed duri
 <table>
   <tr>
     <td align="center">
-      <img src="./images/Base-Plate.png" width="10000"/><br/>
+      <img src="./images/Base-Plate.png" width="15000"/><br/>
       <sub>Base Plate</sub>
     </td>
     <td align="center">
