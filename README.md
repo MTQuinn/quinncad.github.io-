@@ -23,25 +23,25 @@ This section showcases selected drawings and practice assignments completed duri
 <table>
   <tr>
     <td align="center">
-      <img src="./images/Base-Plate.png" width="200"/><br/>
+      <img src="./images/Base-Plate.png" width="300"/><br/>
       <sub>Base Plate</sub>
     </td>
     <td align="center">
-      <img src="./images/dftg-1409/Control-Panel.png" width="200"/><br/>
+      <img src="./images/Control-Panel.png" width="300"/><br/>
       <sub>Control Panel</sub>
     </td>
     <td align="center">
-      <img src="./images/dftg-1409/Final-3D-Assembly.png" width="200"/><br/>
+      <img src="./images/Final-3D-Assembly.png" width="300"/><br/>
       <sub>Final 3D Assembly</sub>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="./images/dftg-1409/Multi-View-Dimensions.png" width="200"/><br/>
+      <img src="./images/Multi-View-Dimensions.png" width="300"/><br/>
       <sub>Multi-View Dimensions</sub>
     </td>
     <td align="center">
-      <img src="./images/dftg-1409/Solid-Model-1.png" width="200"/><br/>
+      <img src="./images/dftg-1409/Solid-Model-1.png" width="300"/><br/>
       <sub>Solid Model 1</sub>
     </td>
     <td align="center">
