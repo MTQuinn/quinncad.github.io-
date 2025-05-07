@@ -29,21 +29,21 @@ This section showcases selected drawings and practice assignments completed duri
   </tr>
   <tr>
     <td align="center">
-      <img src="./images/Test-Bracket.png" width="300"/><br/>
+      <img src="./images/Test-Bracket.png" width="15000"/><br/>
       <sub>Multi-View Dimensions</sub>
     </td>
     <td align="center">
-      <img src="./images/Floor-Framing.png" width="300"/><br/>
+      <img src="./images/Floor-Framing.png" width="15000"/><br/>
       <sub>Solid Model 1</sub>
     </td>
     <td align="center">
-      <img src="./images/Grill.png" width="200"/><br/>
+      <img src="./images/Grill.png" width="15000"/><br/>
       <sub>Solid Model 2</sub>
     </td>
   </tr>
    <tr>
     <td align="center">
-      <img src="./images/Hearth.png" width="10000"/><br/>
+      <img src="./images/Hearth.png" width="15000"/><br/>
       <sub>Base Plate</sub>
     </td>
     <td align="center">
@@ -57,7 +57,7 @@ This section showcases selected drawings and practice assignments completed duri
   </tr>
    <tr>
     <td align="center">
-      <img src="./images/Text-Exercise.png" width="10000"/><br/>
+      <img src="./images/Text-Exercise.png" width="15000"/><br/>
       <sub>Base Plate</sub>
     </td>
     <td align="center">
@@ -71,7 +71,7 @@ This section showcases selected drawings and practice assignments completed duri
   </tr>
    <tr>
     <td align="center">
-      <img src="./images/Gazebo.png" width="10000"/><br/>
+      <img src="./images/Gazebo.png" width="15000"/><br/>
       <sub>Base Plate</sub>
     </td>
     <td align="center">
