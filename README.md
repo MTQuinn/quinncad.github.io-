@@ -20,63 +20,63 @@ This section showcases selected drawings and practice assignments completed duri
     </td>
     <td align="center">
       <img src="./images/Stepped-Shaft.png" width="15000"/><br/>
-      <sub>Control Panel</sub>
+      <sub>Stepped Shaft</sub>
     </td>
     <td align="center">
       <img src="./images/Mounting-Plate.png" width="15000"/><br/>
-      <sub>Final 3D Assembly</sub>
+      <sub>Mounting Plate</sub>
     </td>
   </tr>
   <tr>
     <td align="center">
       <img src="./images/Test-Bracket.png" width="15000"/><br/>
-      <sub>Multi-View Dimensions</sub>
+      <sub>Test Bracket</sub>
     </td>
     <td align="center">
       <img src="./images/Floor-Framing.png" width="15000"/><br/>
-      <sub>Solid Model 1</sub>
+      <sub>Floor Framing</sub>
     </td>
     <td align="center">
       <img src="./images/Grill.png" width="15000"/><br/>
-      <sub>Solid Model 2</sub>
+      <sub>Grill</sub>
     </td>
   </tr>
    <tr>
     <td align="center">
       <img src="./images/Hearth.png" width="15000"/><br/>
-      <sub>Base Plate</sub>
+      <sub>Hearth</sub>
     </td>
     <td align="center">
       <img src="./images/Flanged-Bushing.png" width="15000"/><br/>
-      <sub>Control Panel</sub>
+      <sub>Flanged Bushing</sub>
     </td>
     <td align="center">
       <img src="./images/Sprocket.png" width="15000"/><br/>
-      <sub>Final 3D Assembly</sub>
+      <sub>Sprocket</sub>
     </td>
   </tr>
    <tr>
     <td align="center">
       <img src="./images/Text-Exercise.png" width="15000"/><br/>
-      <sub>Base Plate</sub>
+      <sub>Text Exercise</sub>
     </td>
     <td align="center">
-      <img src="./images/Tool-Block.png" width="15000"/><br/>
+      <img src="./images/Tool-Block.png" width="17000"/><br/>
+      <sub>Tool Block</sub>
+    </td>
+    <td align="center">
+      <img src="./images/Control-Panel.png" width="17000"/><br/>
       <sub>Control Panel</sub>
-    </td>
-    <td align="center">
-      <img src="./images/Control-Panel.png" width="15000"/><br/>
-      <sub>Final 3D Assembly</sub>
     </td>
   </tr>
    <tr>
     <td align="center">
       <img src="./images/Gazebo.png" width="15000"/><br/>
-      <sub>Base Plate</sub>
+      <sub>Gazebo</sub>
     </td>
     <td align="center">
       <img src="./images/Isometrics-Arm-1-2.png" width="15000"/><br/>
-      <sub>Control Panel</sub>
+      <sub>Isometrics Arm 1 and 2</sub>
     </td>
     <td align="center">
       <img src="./images/Final-3D-Assembly.png" width="15000"/><br/>
