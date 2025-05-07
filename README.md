@@ -19,11 +19,11 @@ This section showcases selected drawings and practice assignments completed duri
       <sub>Base Plate</sub>
     </td>
     <td align="center">
-      <img src="./images/Control-Panel.png" width="4000"/><br/>
+      <img src="./images/Control-Panel.png" width="6000"/><br/>
       <sub>Control Panel</sub>
     </td>
     <td align="center">
-      <img src="./images/Final-3D-Assembly.png" width="4000"/><br/>
+      <img src="./images/Final-3D-Assembly.png" width="6000"/><br/>
       <sub>Final 3D Assembly</sub>
     </td>
   </tr>
