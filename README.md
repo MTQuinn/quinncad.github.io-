@@ -20,6 +20,38 @@ This section showcases selected drawings and practice assignments completed duri
 | Title Block Drawing     | ![Title Block](./images/dftg-1409/title-block-drawing.png) |
 | Custom Part Draft       | ![Custom Part](./images/dftg-1409/custom-part-draft.png) |
 
+<table>
+  <tr>
+    <td align="center">
+      <img src="./images/dftg-1409/Base-Plate.png" width="200"/><br/>
+      <sub>Base Plate</sub>
+    </td>
+    <td align="center">
+      <img src="./images/dftg-1409/Control-Panel.png" width="200"/><br/>
+      <sub>Control Panel</sub>
+    </td>
+    <td align="center">
+      <img src="./images/dftg-1409/Final-3D-Assembly.png" width="200"/><br/>
+      <sub>Final 3D Assembly</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="./images/dftg-1409/Multi-View-Dimensions.png" width="200"/><br/>
+      <sub>Multi-View Dimensions</sub>
+    </td>
+    <td align="center">
+      <img src="./images/dftg-1409/Solid-Model-1.png" width="200"/><br/>
+      <sub>Solid Model 1</sub>
+    </td>
+    <td align="center">
+      <img src="./images/dftg-1409/Solid-Model-2.png" width="200"/><br/>
+      <sub>Solid Model 2</sub>
+    </td>
+  </tr>
+</table>
+
+
 > *All designs created as part of in-class assignments to strengthen foundational CAD drawing skills.*
 > *Want to view a specific drawing or request the file? [Contact me here](mailto:your.email@example.com)*  
 
