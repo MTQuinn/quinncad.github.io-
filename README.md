@@ -112,6 +112,6 @@ This section showcases selected drawings and practice assignments completed duri
 
 ## Contact  
 - 🧩 **CAD Crowd:** [https://www.cadcrowd.com/profile/194433-quinncad)
-- 🌐 **Website:** [https://makaylacad.github.io](https://makaylacad.github.io)
+- 🌐 **Website:** [https://quinncad.github.io](https://quinncad.github.io)
 
 Thanks for visiting! New designs and updates are coming soon 
