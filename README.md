@@ -97,7 +97,7 @@ This section showcases selected drawings and practice assignments completed duri
 **Software:** AutoCAD  
 **Focus:** Precision part modeling, curvature handling, and technical drawing layout.  
 **Notes:** Modeled a simplified orthopedic finger splint as part of a personal project emphasizing medical device design.  
-Orthopedic Index Finger Splint <img src="./images/index-finger-splint.png" width="9000"/><br/>
+Orthopedic Index Finger Splint <img src="./images/index-finger-splint.png" width="900"/><br/>
 
 ---
 
