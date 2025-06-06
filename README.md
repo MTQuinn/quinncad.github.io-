@@ -87,17 +87,17 @@ This section showcases selected drawings and practice assignments completed duri
 
 
 > *All designs created as part of in-class assignments to strengthen foundational CAD drawing skills.*
-> *Want to view a specific drawing or request the file? [Contact me here](mailto:your.email@example.com)*  
+> *Want to view a specific drawing or request the file? [Contact me on LinkedIn at https://www.linkedin.com/in/makayla-quinn/)*  
 
 ---
 
 ## 📂 Other Projects
 
-### 📐 Orthopedic Implant (Student Project)
+### 📐 Orthopedic Index Finger Splint (Personal Project)
 **Software:** AutoCAD  
 **Focus:** Precision part modeling, curvature handling, and technical drawing layout.  
-**Notes:** Modeled a simplified orthopedic implant as part of a class project emphasizing bio-mechanical tolerances.  
-![Orthopedic Implant](./images/orthopedic-implant.png)
+**Notes:** Modeled a simplified orthopedic finger splint as part of a personal project emphasizing medical device design.  
+![Orthopedic Index Finger Splint](./images/orthopedic-implant.png)
 
 ---
 
