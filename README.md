@@ -90,6 +90,17 @@ This section showcases selected drawings and practice assignments completed duri
 > *Want to view a specific drawing or request the file? [Contact me on LinkedIn at https://www.linkedin.com/in/makayla-quinn/)*  
 
 ---
+## ✏️ DFTG 2419 – Intermediate Computer-Aided Drafting Projects (Current courses for Fall 2025)
+
+This section showcases selected drawings and practice assignments completed during my **DFTG 2419 – Intermediate Technical Drafting** course at Lee College. All work is created using **AutoCAD**, focusing on the development and use of prototype drawings, construction of pictorial drawings, extracting data, and the basics of creating 3-D drawings.
+
+---
+
+## ✏️ DFTG 2408 – Instrumentation Drafting (Current courses for Fall 2025)
+
+This section showcases selected drawings and practice assignments completed during my **DFTG 2408 – Instrumentation Drafting** course at Lee College. All work is created using **AutoCAD**, focusing on the principles of instrumentation applicable to industrial applications, fundamentals of measurement and control devices, currently used ISA (Instrument Society of America) symbology, basic flow sheet layout, and drafting practices.
+
+---
 
 ## 📂 Other Projects
 
