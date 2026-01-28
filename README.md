@@ -100,11 +100,11 @@ This section showcases selected drawings and practice assignments completed duri
 <table>
   <tr>
     <td align="center">
-      <img src="./images/Base-Plate.png" width="15000"/><br/>
+      <img src="./images/Dimension-Styles-1.png" width="15000"/><br/>
       <sub>Dimension Styles 1</sub>
     </td>
     <td align="center">
-      <img src="./images/Stepped-Shaft.png" width="15000"/><br/>
+      <img src="./images/Dimension-Sttyles-2.png" width="15000"/><br/>
       <sub>Dimension Styles 2</sub>
     </td>
     <td align="center">
