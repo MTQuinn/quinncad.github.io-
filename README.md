@@ -108,7 +108,7 @@ This section showcases selected drawings and practice assignments completed duri
       <sub>Dimension Styles 2</sub>
     </td>
     <td align="center">
-      <img src="./images/Mounting-Plate.png" width="15000"/><br/>
+      <img src="./images/Multi-Leader-Styles.png" width="15000"/><br/>
       <sub>Multi-Leaders</sub>
     </td>
   </tr>
