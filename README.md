@@ -92,7 +92,82 @@ This section showcases selected drawings and practice assignments completed duri
 ---
 ## ✏️ DFTG 2419 – Intermediate Computer-Aided Drafting Projects (Current courses for Fall 2025)
 
-This section showcases selected drawings and practice assignments completed during my **DFTG 2419 – Intermediate Technical Drafting** course at Lee College. All work is created using **AutoCAD**, focusing on the development and use of prototype drawings, construction of pictorial drawings, extracting data, and the basics of creating 3-D drawings.
+This section showcases selected drawings and practice assignments completed during my **DFTG 2419 – Intermediate Technical Drafting** course at Lee College. All work is created using **AutoCAD**, focusing on the development and use of prototype drawings, the creation of pictorial drawings, data extraction, and the basics of creating 3-D drawings.
+
+---
+### 📸 Class Project Gallery
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="./images/Base-Plate.png" width="15000"/><br/>
+      <sub>Dimension Styles 1</sub>
+    </td>
+    <td align="center">
+      <img src="./images/Stepped-Shaft.png" width="15000"/><br/>
+      <sub>Dimension Styles 2</sub>
+    </td>
+    <td align="center">
+      <img src="./images/Mounting-Plate.png" width="15000"/><br/>
+      <sub>Multi-Leaders</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="./images/Test-Bracket.png" width="15000"/><br/>
+      <sub>Multi-Leaders</sub>
+    </td>
+    <td align="center">
+      <img src="./images/Floor-Framing.png" width="15000"/><br/>
+      <sub>Snap Ring</sub>
+    </td>
+    <td align="center">
+      <img src="./images/Grill.png" width="15000"/><br/>
+      <sub>Orthographic Projection</sub>
+    </td>
+  </tr>
+   <tr>
+    <td align="center">
+      <img src="./images/Hearth.png" width="15000"/><br/>
+      <sub>Compressed Air Schematic</sub>
+    </td>
+    <td align="center">
+      <img src="./images/Flanged-Bushing.png" width="15000"/><br/>
+      <sub>Pipe Layout</sub>
+    </td>
+    <td align="center">
+      <img src="./images/Sprocket.png" width="15000"/><br/>
+      <sub>Column Framing Plan</sub>
+    </td>
+  </tr>
+   <tr>
+    <td align="center">
+      <img src="./images/Text-Exercise.png" width="15000"/><br/>
+      <sub>Metric Hub</sub>
+    </td>
+    <td align="center">
+      <img src="./images/Tool-Block.png" width="20000"/><br/>
+      <sub>Motor Frame Ring</sub>
+    </td>
+    <td align="center">
+      <img src="./images/Control-Panel.png" width="20000"/><br/>
+      <sub>Civil Drawing 1</sub>
+    </td>
+  </tr>
+   <tr>
+    <td align="center">
+      <img src="./images/Gazebo.png" width="15000"/><br/>
+      <sub>3D Bracket</sub>
+    </td>
+    <td align="center">
+      <img src="./images/Isometrics-Arm-1-2.png" width="15000"/><br/>
+      <sub>Final: U-Joint</sub>
+    </td>
+  </tr>
+</table>
+
+
+> *All designs created as part of in-class assignments to strengthen foundational CAD drawing skills.*
 
 ---
 
