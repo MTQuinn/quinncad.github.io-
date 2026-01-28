@@ -104,7 +104,7 @@ This section showcases selected drawings and practice assignments completed duri
       <sub>Dimension Styles 1</sub>
     </td>
     <td align="center">
-      <img src="./images/Dimension-Sttyles-2.png" width="15000"/><br/>
+      <img src="./images/Dimension-Styles-2.png" width="15000"/><br/>
       <sub>Dimension Styles 2</sub>
     </td>
     <td align="center">
@@ -115,52 +115,48 @@ This section showcases selected drawings and practice assignments completed duri
   <tr>
     <td align="center">
       <img src="./images/Test-Bracket.png" width="15000"/><br/>
-      <sub>Multi-Leaders</sub>
-    </td>
-    <td align="center">
-      <img src="./images/Floor-Framing.png" width="15000"/><br/>
       <sub>Snap Ring</sub>
     </td>
     <td align="center">
-      <img src="./images/Grill.png" width="15000"/><br/>
+      <img src="./images/Floor-Framing.png" width="15000"/><br/>
       <sub>Orthographic Projection</sub>
+    </td>
+    <td align="center">
+      <img src="./images/Grill.png" width="15000"/><br/>
+      <sub>Compressed Air Schematic</sub>
     </td>
   </tr>
    <tr>
     <td align="center">
       <img src="./images/Hearth.png" width="15000"/><br/>
-      <sub>Compressed Air Schematic</sub>
-    </td>
-    <td align="center">
-      <img src="./images/Flanged-Bushing.png" width="15000"/><br/>
       <sub>Pipe Layout</sub>
     </td>
     <td align="center">
-      <img src="./images/Sprocket.png" width="15000"/><br/>
+      <img src="./images/Flanged-Bushing.png" width="15000"/><br/>
       <sub>Column Framing Plan</sub>
+    </td>
+    <td align="center">
+      <img src="./images/Sprocket.png" width="15000"/><br/>
+      <sub>Metric Hub</sub>
     </td>
   </tr>
    <tr>
     <td align="center">
       <img src="./images/Text-Exercise.png" width="15000"/><br/>
-      <sub>Metric Hub</sub>
-    </td>
-    <td align="center">
-      <img src="./images/Tool-Block.png" width="20000"/><br/>
       <sub>Motor Frame Ring</sub>
     </td>
     <td align="center">
-      <img src="./images/Control-Panel.png" width="20000"/><br/>
+      <img src="./images/Tool-Block.png" width="20000"/><br/>
       <sub>Civil Drawing 1</sub>
+    </td>
+    <td align="center">
+      <img src="./images/Control-Panel.png" width="20000"/><br/>
+      <sub>3D Bracket</sub>
     </td>
   </tr>
    <tr>
     <td align="center">
       <img src="./images/Gazebo.png" width="15000"/><br/>
-      <sub>3D Bracket</sub>
-    </td>
-    <td align="center">
-      <img src="./images/Isometrics-Arm-1-2.png" width="15000"/><br/>
       <sub>Final: U-Joint</sub>
     </td>
   </tr>
