@@ -114,49 +114,49 @@ This section showcases selected drawings and practice assignments completed duri
   </tr>
   <tr>
     <td align="center">
-      <img src="./images/Test-Bracket.png" width="15000"/><br/>
+      <img src="./images/Snap-Ring" width="15000"/><br/>
       <sub>Snap Ring</sub>
     </td>
     <td align="center">
-      <img src="./images/Floor-Framing.png" width="15000"/><br/>
+      <img src="./images/Orthographic-Projection.png" width="15000"/><br/>
       <sub>Orthographic Projection</sub>
     </td>
     <td align="center">
-      <img src="./images/Grill.png" width="15000"/><br/>
+      <img src="./images/Compressed-Air-Schematic.png" width="15000"/><br/>
       <sub>Compressed Air Schematic</sub>
     </td>
   </tr>
    <tr>
     <td align="center">
-      <img src="./images/Hearth.png" width="15000"/><br/>
+      <img src="./images/Pipe-Layout.png" width="15000"/><br/>
       <sub>Pipe Layout</sub>
     </td>
     <td align="center">
-      <img src="./images/Flanged-Bushing.png" width="15000"/><br/>
+      <img src="./images/Column-Framing-Plan.png" width="15000"/><br/>
       <sub>Column Framing Plan</sub>
     </td>
     <td align="center">
-      <img src="./images/Sprocket.png" width="15000"/><br/>
+      <img src="./images/Metric-Hub.png" width="15000"/><br/>
       <sub>Metric Hub</sub>
     </td>
   </tr>
    <tr>
     <td align="center">
-      <img src="./images/Text-Exercise.png" width="15000"/><br/>
+      <img src="./images/Motor-Frame-Ring.png" width="15000"/><br/>
       <sub>Motor Frame Ring</sub>
     </td>
     <td align="center">
-      <img src="./images/Tool-Block.png" width="20000"/><br/>
+      <img src="./images/Civil-Drawing-1.png" width="20000"/><br/>
       <sub>Civil Drawing 1</sub>
     </td>
     <td align="center">
-      <img src="./images/Control-Panel.png" width="20000"/><br/>
+      <img src="./images/3D-Bracket.png" width="20000"/><br/>
       <sub>3D Bracket</sub>
     </td>
   </tr>
    <tr>
     <td align="center">
-      <img src="./images/Gazebo.png" width="15000"/><br/>
+      <img src="./images/Final-U-Joint.png" width="15000"/><br/>
       <sub>Final: U-Joint</sub>
     </td>
   </tr>
