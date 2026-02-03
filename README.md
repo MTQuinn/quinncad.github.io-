@@ -181,7 +181,7 @@ This section showcases selected drawings and practice assignments completed duri
       <sub>Legend</sub>
     </td>
     <td align="center">
-      <img src="./images/PFD.png" width="15000"/><br/>
+      <img src="./images/PFD.png" width="1500"/><br/>
       <sub>PFD</sub>
     </td>
     <td align="center">
