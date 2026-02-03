@@ -146,7 +146,7 @@ This section showcases selected drawings and practice assignments completed duri
       <sub>Motor Frame Ring</sub>
     </td>
     <td align="center">
-      <img src="./images/Civil-Drawing-1.png" width="20000"/><br/>
+      <img src="./images/Civil-Drawing.png" width="20000"/><br/>
       <sub>Civil Drawing 1</sub>
     </td>
     <td align="center">
