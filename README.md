@@ -1,6 +1,6 @@
 # 🛠️ Quinn’s CAD Portfolio
 
-Hello! I’m Quinn—a biomedical engineering graduate currently earning my **CAD & Drafting-Advanced Technology Certificate** at **Lee College**. I specialize in 2D and 3D technical design using **AutoCAD**, and I’m building this portfolio to showcase my progress and skill development in real time.
+Hello! I’m Quinn—a biomedical engineering graduate currently earning my **CAD & Drafting-Advanced Technology Certificate** at **Lee College**. I specialize in 2D and 3D technical design using **AutoCAD**and am building this portfolio to showcase my progress and skill development in real time.
 
 ---
 
@@ -169,9 +169,45 @@ This section showcases selected drawings and practice assignments completed duri
 
 ## ✏️ DFTG 2408 – Instrumentation Drafting (Current courses for Fall 2025)
 
-This section showcases selected drawings and practice assignments completed during my **DFTG 2408 – Instrumentation Drafting** course at Lee College. All work is created using **AutoCAD**, focusing on the principles of instrumentation applicable to industrial applications, fundamentals of measurement and control devices, currently used ISA (Instrument Society of America) symbology, basic flow sheet layout, and drafting practices.
+This section showcases selected drawings and practice assignments completed during my **DFTG 2408 – Instrumentation Drafting** course at Lee College. All work is created using **AutoCAD**, focusing on the principles of instrumentation applicable to industrial applications, the fundamentals of measurement and control devices, current ISA (Instrument Society of America) symbology, basic flow sheet layout, and drafting practices.
 
 ---
+### 📸 Class Project Gallery
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="./images/Dimension-Styles-1.png" width="15000"/><br/>
+      <sub>Legend</sub>
+    </td>
+    <td align="center">
+      <img src="./images/Dimension-Styles-2.png" width="15000"/><br/>
+      <sub>PFD</sub>
+    </td>
+    <td align="center">
+      <img src="./images/Multi-Leader-Styles.png" width="15000"/><br/>
+      <sub>PID</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="./images/Snap-Ring.png" width="15000"/><br/>
+      <sub>Loop Diagram</sub>
+    </td>
+    <td align="center">
+      <img src="./images/Orthographic-Projection.png" width="15000"/><br/>
+      <sub>Equiptment Location</sub>
+    </td>
+  </tr>
+</table>
+
+## ✏️ DFTG 2432 – Advanced Computer-Aided Drafting (Current courses for Spring 2026)
+
+This section showcases selected drawings and practice assignments completed during my **DFTG 2408 – Instrumentation Drafting** course at Lee College. All work is created using **AutoCAD**, focusing on advanced CAD technologies, including animation, rendering, and 3D modeling and output.
+
+## ✏️ CNBT 1442 – Building Codes and Inspections (Current courses for Spring 2026)
+
+This section showcases selected drawings and practice assignments completed during my **CNBT 1442 – Building Codes and Inspections ** course at Lee College. All work is created using **AutoCAD**, focusing on identifying various construction classifications and occupancy categories, cross-referencing the guidelines, tables, charts, and specifications as presented in the building codes, and determining if construction meets the building codes and standards. 
 
 ## 📂 Other Projects
 
