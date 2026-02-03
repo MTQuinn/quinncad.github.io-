@@ -90,7 +90,7 @@ This section showcases selected drawings and practice assignments completed duri
 > *Want to view a specific drawing or request the file? [Contact me on LinkedIn at https://www.linkedin.com/in/makayla-quinn/)*  
 
 ---
-## ✏️ DFTG 2419 – Intermediate Computer-Aided Drafting Projects (Current courses for Fall 2025)
+## ✏️ DFTG 2419 – Intermediate Computer-Aided Drafting Projects 
 
 This section showcases selected drawings and practice assignments completed during my **DFTG 2419 – Intermediate Technical Drafting** course at Lee College. All work is created using **AutoCAD**, focusing on the development and use of prototype drawings, the creation of pictorial drawings, data extraction, and the basics of creating 3-D drawings.
 
@@ -114,7 +114,7 @@ This section showcases selected drawings and practice assignments completed duri
   </tr>
   <tr>
     <td align="center">
-      <img src="./images/Snap-Ring" width="15000"/><br/>
+      <img src="./images/Snap-Ring.png" width="15000"/><br/>
       <sub>Snap Ring</sub>
     </td>
     <td align="center">
