@@ -217,6 +217,82 @@ This section showcases selected drawings and practice assignments completed duri
 ## ✏️ DFTG 2432 – Advanced Computer-Aided Drafting (Current courses for Spring 2026)
 
 This section showcases selected drawings and practice assignments completed during my **DFTG 2408 – Instrumentation Drafting** course at Lee College. All work is created using **AutoCAD**, focusing on advanced CAD technologies, including animation, rendering, and 3D modeling and output.
+----
+<table>
+  <tr>
+    <td align="center">
+      <img src="./images/Base-Plate.png" width="15000"/><br/>
+      <sub>3D Primitive Models</sub>
+    </td>
+    <td align="center">
+      <img src="./images/Stepped-Shaft.png" width="15000"/><br/>
+      <sub>Modeule 2, model #1</sub>
+    </td>
+    <td align="center">
+      <img src="./images/Mounting-Plate.png" width="15000"/><br/>
+      <sub>Modeule 2, model #2</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="./images/Test-Bracket.png" width="15000"/><br/>
+      <sub>Modeule 2, model #3</sub>
+    </td>
+    <td align="center">
+      <img src="./images/Floor-Framing.png" width="15000"/><br/>
+      <sub>Modeule 2, model #4</sub>
+    </td>
+    <td align="center">
+      <img src="./images/Grill.png" width="15000"/><br/>
+      <sub>Modeule 2, model #5</sub>
+    </td>
+  </tr>
+   <tr>
+    <td align="center">
+      <img src="./images/Hearth.png" width="15000"/><br/>
+      <sub>Modeule 2, model #6</sub>
+    </td>
+    <td align="center">
+      <img src="./images/Flanged-Bushing.png" width="15000"/><br/>
+      <sub>Modeule 3, model #1</sub>
+    </td>
+    <td align="center">
+      <img src="./images/Sprocket.png" width="15000"/><br/>
+      <sub>Modeule 3, model #2</sub>
+    </td>
+  </tr>
+   <tr>
+    <td align="center">
+      <img src="./images/Text-Exercise.png" width="15000"/><br/>
+      <sub>Modeule 3, model #3</sub>
+    </td>
+    <td align="center">
+      <img src="./images/Tool-Block.png" width="20000"/><br/>
+      <sub>Modeule 3, model #4</sub>
+    </td>
+    <td align="center">
+      <img src="./images/Control-Panel.png" width="20000"/><br/>
+      <sub>Module 4</sub>
+    </td>
+  </tr>
+   <tr>
+    <td align="center">
+      <img src="./images/Gazebo.png" width="15000"/><br/>
+      <sub>Title</sub>
+    </td>
+    <td align="center">
+      <img src="./images/Isometrics-Arm-1-2.png" width="15000"/><br/>
+      <sub>Title</sub>
+    </td>
+    <td align="center">
+      <img src="./images/Final-3D-Assembly.png" width="15000"/><br/>
+      <sub>Title</sub>
+    </td>
+  </tr>
+</table>
+
+
+> *All designs created as part of in-class assignments to strengthen foundational CAD drawing skills.*
 
 ## ✏️ CNBT 1442 – Building Codes and Inspections (Current courses for Spring 2026)
 
