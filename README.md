@@ -257,7 +257,7 @@ This section showcases selected drawings and practice assignments completed duri
       <sub>Modeule 3, model #1</sub>
     </td>
     <td align="center">
-      <img src="./M3-2.png" width="15000"/><br/>
+      <img src="./images/M3-2.png" width="15000"/><br/>
       <sub>Modeule 3, model #2</sub>
     </td>
   </tr>
