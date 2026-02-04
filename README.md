@@ -216,7 +216,8 @@ This section showcases selected drawings and practice assignments completed duri
 
 ## ✏️ DFTG 2432 – Advanced Computer-Aided Drafting (Current courses for Spring 2026)
 
-This section showcases selected drawings and practice assignments completed during my **DFTG 2408 – Instrumentation Drafting** course at Lee College. All work is created using **AutoCAD**, focusing on advanced CAD technologies, including animation, rendering, and 3D modeling and output.
+This section showcases selected drawings and practice assignments completed during my **DFTG 2432 – Advanced Computer-Aided Drafting** course at Lee College. All work is created in **AutoCAD**, focusing on advanced CAD techniques, including animation, rendering, and 3D modeling, and on output. 
+
 ----
 <table>
   <tr>
