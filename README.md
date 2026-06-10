@@ -272,8 +272,8 @@ This section showcases selected drawings and practice assignments completed duri
       <sub>Modeule 3, model #4</sub>
     </td>
     <td align="center">
-      <img src="./images/Control-Panel.png" width="20000"/><br/>
-      <sub>Module 4</sub>
+      <img src="./images/M4_Screwdriver.png" width="20000"/><br/>
+      <sub>Module 4, Screwdriver</sub>
     </td>
   </tr>
    <tr>
