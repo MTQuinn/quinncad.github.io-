@@ -278,16 +278,106 @@ This section showcases selected drawings and practice assignments completed duri
   </tr>
    <tr>
     <td align="center">
-      <img src="./images/Gazebo.png" width="15000"/><br/>
-      <sub>Title</sub>
+      <img src="./images/M5_1.png" width="15000"/><br/>
+      <sub>Module 5, Model #1</sub>
     </td>
     <td align="center">
-      <img src="./images/Isometrics-Arm-1-2.png" width="15000"/><br/>
-      <sub>Title</sub>
+      <img src="./images/M5_2.png" width="15000"/><br/>
+      <sub>Module 5, Model #2</sub>
     </td>
     <td align="center">
-      <img src="./images/Final-3D-Assembly.png" width="15000"/><br/>
-      <sub>Title</sub>
+      <img src="./images/M5_3.png" width="15000"/><br/>
+      <sub>Module 5, Model #3</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="./images/M5_4.png" width="15000"/><br/>
+      <sub>Module 5, Model #4</sub>
+    </td>
+    <td align="center">
+      <img src="./images/M5_5.png" width="15000"/><br/>
+      <sub>Module 5, Model #5</sub>
+    </td>
+    <td align="center">
+      <img src="./images/M5_6.png" width="15000"/><br/>
+      <sub>Module 5, Model #6</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="./images/M6_Trip_Box.png" width="15000"/><br/>
+      <sub>Module 6, Trip Box</sub>
+    </td>
+    <td align="center">
+      <img src="./images/M7_Axel_Pen.png" width="15000"/><br/>
+      <sub>Module 7, Axel Pin</sub>
+    </td>
+    <td align="center">
+      <img src="./images/M7_Bushing.png" width="15000"/><br/>
+      <sub>Module 7, Bushing</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="./images/M7_Spacer.png" width="15000"/><br/>
+      <sub>Module 7, Spacer</sub>
+    </td>
+    <td align="center">
+      <img src="./images/M7_Frame.png" width="15000"/><br/>
+      <sub>Module 7, Frame</sub>
+    </td>
+    <td align="center">
+      <img src="./images/M7_Wheel_Assembly.png" width="15000"/><br/>
+      <sub>Module 7, Wheel Assembly</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="./images/M8_Shackle&Pin.png" width="15000"/><br/>
+      <sub>Module 8, Shackle & Pin</sub>
+    </td>
+    <td align="center">
+      <img src="./images/M8_Shackle&Pin_Animation.png" width="15000"/><br/>
+      <sub>Module 8, Shackle & Pin Animation</sub>
+    </td>
+    <td align="center">
+      <img src="./images/M9_Anchor_Base.png" width="15000"/><br/>
+      <sub>Module 9, Anchor Base</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="./images/M5_1.png" width="15000"/><br/>
+      <sub>Module 5, Model #1</sub>
+    </td>
+    <td align="center">
+      <img src="./images/M5_2.png" width="15000"/><br/>
+      <sub>Module 5, Model #2</sub>
+    </td>
+    <td align="center">
+      <img src="./images/M5_3.png" width="15000"/><br/>
+      <sub>Module 5, Model #3</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="./images/M5_1.png" width="15000"/><br/>
+      <sub>Module 5, Model #1</sub>
+    </td>
+    <td align="center">
+      <img src="./images/M5_2.png" width="15000"/><br/>
+      <sub>Module 5, Model #2</sub>
+    </td>
+    <td align="center">
+      <img src="./images/M5_3.png" width="15000"/><br/>
+      <sub>Module 5, Model #3</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="./images/M5_1.png" width="15000"/><br/>
+      <sub>Module 5, Model #1</sub>
     </td>
   </tr>
 </table>
