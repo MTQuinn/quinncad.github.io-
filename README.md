@@ -365,7 +365,7 @@ This section showcases selected drawings and practice assignments completed duri
       <img src="./images/M10_Steering_Knuckle.png" width="15000"/><br/>
       <sub>Module 10, Steering Knuckle</sub>
     </td>
-    </tr>
+  </tr>
 </table>
 
 
