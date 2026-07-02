@@ -349,21 +349,21 @@ This section showcases selected drawings and practice assignments completed duri
   <tr>
     <td align="center">
       <img src="./images/M9_Angle_Support.png" width="15000"/><br/>
-      <sub>Module 5, Model 9, Angle Support</sub>
+      <sub>Module 9, Angle Support</sub>
     </td>
     <td align="center">
       <img src="./images/M9_Bevel_Washer.png" width="15000"/><br/>
-      <sub>Module 5, Model 9, Bevel Washer</sub>
+      <sub>Module 9, Bevel Washer</sub>
     </td>
     <td align="center">
       <img src="./images/M10_Swing_Arm.png" width="15000"/><br/>
-      <sub>Module 5, Model 10, Swing Arm</sub>
+      <sub>Module 10, Swing Arm</sub>
     </td>
   </tr>
   <tr>
     <td align="center">
       <img src="./images/M10_Steering_Knuckle.png" width="15000"/><br/>
-      <sub>Module 5, Model 10, Steering Knuckle</sub>
+      <sub>Module 10, Steering Knuckle</sub>
     </td>
     </tr>
 </table>
