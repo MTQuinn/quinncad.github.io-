@@ -1,6 +1,6 @@
 # 🛠️ Quinn’s CAD Portfolio
 
-Hello! I’m Quinn—a biomedical engineering graduate currently earning my **CAD & Drafting-Advanced Technology Certificate** at **Lee College**. I specialize in 2D and 3D technical design using **AutoCAD** and am building this portfolio to showcase my progress and skill development in real time.
+Hello. My name is Makayla Quinn—a biomedical engineering graduate with a **CAD & Drafting-Advanced Technology Certificate** from **Lee College**. I specialize in 2D and 3D technical design using **AutoCAD** and am building this portfolio to showcase my progress and skill development in real time.
 
 ---
 
